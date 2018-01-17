@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "232196580914",
+    "firebase_url": "https://a-day-more.firebaseio.com",
+    "project_id": "a-day-more",
+    "storage_bucket": "a-day-more.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232196580914:android:7ad7765088ed43fe",
+        "android_client_info": {
+          "package_name": "android.jjdeveloper.com.adaymore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232196580914-1tj7gq4gphqcvq9028b68faqcv7jdjk2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.jjdeveloper.com.adaymore",
+            "certificate_hash": "b0322eb00c029f9c4a991313abe5805bc0ad3b43"
+          }
+        },
+        {
+          "client_id": "232196580914-4kc2iqp3a9bl4ish2ib1v5p8j4cabch8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGQcnlZvdT0Hs3zsi29oCaZi7pmYL9apI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232196580914-4kc2iqp3a9bl4ish2ib1v5p8j4cabch8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
