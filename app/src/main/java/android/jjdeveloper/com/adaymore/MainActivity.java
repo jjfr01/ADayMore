@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
                         });
 
 
-                sendDataAnalytics(view.getId(), "Boton1");
+                //sendDataAnalytics(view.getId(), "Boton1");
 
             }
         });
@@ -199,7 +199,7 @@ public class MainActivity extends AppCompatActivity {
 
                 //----------------------------------------
 
-                sendDataAnalytics(view.getId(), "Boton3");
+                //sendDataAnalytics(view.getId(), "Boton3");
 
             }
         });
